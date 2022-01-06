@@ -44,6 +44,6 @@ Below you find a heatmap of the lat/long locations with the higher logistic regr
 
 ![Heatmap of Logistic Regression Coefficients](https://github.com/jcummingsutk/fulton_county_ERA_applications/blob/master/img/large_heatmap.png)
 
-Image showing righer and poorer neighborhoods, with poorer in blue and richer in red. Notice how the general blue areas in Fulton county line up with
+Image showing righer and poorer neighborhoods, with poorer in blue and richer in red. Notice how the general blue areas in Fulton county line up with the red areas. Of course, the blue areas outside of Fulton do not show up on the heatmap, as this data is only for Fulton county.
 
 ![Heatmap of Logistic Regression Coefficients](https://github.com/jcummingsutk/fulton_county_ERA_applications/blob/master/img/high_low_income_area.jpg)
